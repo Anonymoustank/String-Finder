@@ -1,8 +1,8 @@
-word = "Pranav"
+word = "Pranav" #word you want to search for the target phrase
 
 word = word.lower()
 
-target = "pranav"
+target = "pranav" #target phrase you want to find within the word
 
 target = target.lower()
 
